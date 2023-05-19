@@ -21,11 +21,12 @@ const style = {
 
 export default function BasicModal({ open, handleClose }) {
     const us = [
-        { avatar: "W", name: "Waleed", roll: "20b-115-se" },
-        { avatar: "A", name: "Abrar", roll: "20b-017-se" },
-        { avatar: "F", name: "Farhan", roll: "20b-055-se" },
-        { avatar: "A", name: "Abeer", roll: "17b-132-se" },
-        { avatar: "A", name: "Aun", roll: "20b-118-se" },
+        { avatar: "K", name: "Krish Srivastava", roll: "AP21110010302" },
+        { avatar: "A", name: "Ayon Sarkar", roll: "AP21110010286" },
+        { avatar: "A", name: "Anirudhha Dewangan", roll: "AP21110011194" },
+        { avatar: "N", name: "Nageshwar Prasad Yadav", roll: "AP21110011195" },
+        { avatar: "S", name: "Suman Kumar", roll: "AP21110010283" },
+        { avatar: "P", name: "Paras Agarwal", roll: "AP21110010324" },
     ]
     return (
         <div>
@@ -55,7 +56,7 @@ export default function BasicModal({ open, handleClose }) {
                                     </ListItem>
                                 ))}
                             </List>
-                            <Button sx={{ display: 'flex', justifyContent: 'canter', alignItems: 'center' }} variant="contained" href="https://github.com/notwld/Scheduler" target="_blank" startIcon={<GitHubIcon />}>
+                            <Button sx={{ display: 'flex', justifyContent: 'canter', alignItems: 'center' }} variant="contained" href="https://github.com/retr0-kernel/OS-Virtual-Labs" target="_blank" startIcon={<GitHubIcon />}>
                                 Github
                             </Button>
                         </Box>

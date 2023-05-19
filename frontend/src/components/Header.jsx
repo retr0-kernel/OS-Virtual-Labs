@@ -14,7 +14,7 @@ export default function Header({ darkMode, toggleDarkMode }) {
         <Container id="margin-dense" margin="dense" style={{ marginTop: "25px" }}>
             <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', '@media (max-width: 600px)': { flexDirection: "column", alignItems: "center" } }}>
                 <Typography variant="h2" sx={{ flexGrow: 1, cursor: 'pointer' }} onClick={() => navigate("/")}>
-                    Scheduler
+                    OS Virtual Lab
                 </Typography>
 
 
