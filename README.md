@@ -25,7 +25,7 @@ The source code for this project is available on GitHub at [https://github.com/r
 
 ## Sample Output
 
-A live demo of the OS Virtual Labs web application can be accessed at [https://os-virtual-labs.com](https://os-virtual-labs.com). The website allows users to interact with various simulations and exercises related to operating systems. Users can explore different scenarios, perform tasks, and receive feedback within the virtual environment.
+A live demo of the OS Virtual Labs web application can be accessed [here](https://os-virtual-labs-squ4-8dkgxxh9y-retr0-kernel.vercel.app/). The website allows users to interact with various simulations and exercises related to operating systems. Users can explore different scenarios, perform tasks, and receive feedback within the virtual environment.
 
 ## Future Work
 
